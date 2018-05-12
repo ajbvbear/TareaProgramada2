@@ -24,7 +24,7 @@ T GetMax (T a, T b) {
   }
   return (result);
 }
-
+//holi
 int main () {
   int i=5, j=6, k;
   long l=10, m=5, n;
